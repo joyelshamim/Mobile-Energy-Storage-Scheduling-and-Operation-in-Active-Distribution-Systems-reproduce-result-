@@ -11,10 +11,7 @@ A Python implementation of optimal scheduling and operation of Mobile Energy Sto
 - [System Scenario](#system-scenario)
 - [Methodology](#methodology)
 - [Mathematical Formulation](#mathematical-formulation)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Results](#results)
-- [Project Structure](#project-structure)
 - [References](#references)
 
 ---
